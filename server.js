@@ -14,7 +14,3 @@ app.use(routes);
 app.listen(PORT, () => {
     console.log(`App listening on port ${PORT}!`);
   });
-
-// Please, reference the README.md for further insight
-// Thank you for viewing!
-// Thomas Calle 😊
